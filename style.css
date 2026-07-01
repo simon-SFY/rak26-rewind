@@ -137,6 +137,13 @@ h1 {
 
 .btn-drive { margin-top: 4px; }
 
+.note {
+  margin: 12px 0 0;
+  font-size: 0.72rem;
+  font-style: italic;
+  color: var(--gold);
+}
+
 .error {
   min-height: 1.3em;
   margin: 12px 0 0;
